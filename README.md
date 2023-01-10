@@ -1,16 +1,13 @@
-### Hi there 👋
+<b>Hi there!</b>
 
-<!--
-**WinterBoy-Galois/WinterBoy-Galois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :bowtie: I respect Galois
+- 🎓 focus is on blockchain full-stack software engineering
+- :heart: love math, like football, enjoy listening to music
 
-Here are some ideas to get you started:
+# 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitStats Overview - Light](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
+
+> GitHub stat visualizations are generated daily at: [GitStats](https://github.com/WinterBoy-Galois/GitStats)
+
+# 💬
