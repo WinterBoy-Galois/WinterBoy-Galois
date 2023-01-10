@@ -6,8 +6,7 @@
 
 # 📈
 
-![GitStats Overview - Light](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/WinterBoy-Galois/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
-
-> GitHub stat visualizations are generated daily at: [GitStats](https://github.com/WinterBoy-Galois/GitStats)
-
-# 💬
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=WinterBoy-Galois&theme=dracula&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterBoy-Galois&theme=dracula">
+</div>
