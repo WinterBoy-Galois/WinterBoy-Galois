@@ -1,7 +1,7 @@
 <b>Hi there!</b>
 
 - :bowtie: I respect Galois
-- 🎓 focus is on blockchain full-stack software engineering
+- 🎓 focus is on AI / blockchain / full-stack software engineering
 - :heart: love math, like football, enjoy listening to music
 
 # 📈
